@@ -1,0 +1,126 @@
+ITEM_ID,GAIN,DESCRIPTION
+1,1250000,“male voice very dark, fullness very low, clarity very low”
+2,1250005,“male voice very dark, fullness very low, clarity low”
+3,1250010,“male voice very dark, fullness very low, clarity medium”
+4,1250015,“male voice very dark, fullness very low, clarity high”
+5,1250020,“male voice very dark, fullness very low, clarity very high”
+6,1250500,“male voice very dark, fullness low, clarity very low”
+7,1250505,“male voice very dark, fullness low, clarity low”
+8,1250510,“male voice very dark, fullness low, clarity medium”
+9,1250515,“male voice very dark, fullness low, clarity high”
+10,1250520,“male voice very dark, fullness low, clarity very high”
+11,1251000,“male voice very dark, fullness medium, clarity very low”
+12,1251005,“male voice very dark, fullness medium, clarity low”
+13,1251010,“male voice very dark, fullness medium, clarity medium”
+14,1251015,“male voice very dark, fullness medium, clarity high”
+15,1251020,“male voice very dark, fullness medium, clarity very high”
+16,1251500,“male voice very dark, fullness high, clarity very low”
+17,1251505,“male voice very dark, fullness high, clarity low”
+18,1251510,“male voice very dark, fullness high, clarity medium”
+19,1251515,“male voice very dark, fullness high, clarity high”
+20,1251520,“male voice very dark, fullness high, clarity very high”
+21,1252000,“male voice very dark, fullness very high, clarity very low”
+22,1252005,“male voice very dark, fullness very high, clarity low”
+23,1252010,“male voice very dark, fullness very high, clarity medium”
+24,1252015,“male voice very dark, fullness very high, clarity high”
+25,1252020,“male voice very dark, fullness very high, clarity very high”
+26,1500000,“male voice dark, fullness very low, clarity very low”
+27,1500005,“male voice dark, fullness very low, clarity low”
+28,1500010,“male voice dark, fullness very low, clarity medium”
+29,1500015,“male voice dark, fullness very low, clarity high”
+30,1500020,“male voice dark, fullness very low, clarity very high”
+31,1500500,“male voice dark, fullness low, clarity very low”
+32,1500505,“male voice dark, fullness low, clarity low”
+33,1500510,“male voice dark, fullness low, clarity medium”
+34,1500515,“male voice dark, fullness low, clarity high”
+35,1500520,“male voice dark, fullness low, clarity very high”
+36,1501000,“male voice dark, fullness medium, clarity very low”
+37,1501005,“male voice dark, fullness medium, clarity low”
+38,1501010,“male voice dark, fullness medium, clarity medium”
+39,1501015,“male voice dark, fullness medium, clarity high”
+40,1501020,“male voice dark, fullness medium, clarity very high”
+41,1501500,“male voice dark, fullness high, clarity very low”
+42,1501505,“male voice dark, fullness high, clarity low”
+43,1501510,“male voice dark, fullness high, clarity medium”
+44,1501515,“male voice dark, fullness high, clarity high”
+45,1501520,“male voice dark, fullness high, clarity very high”
+46,1502000,“male voice dark, fullness very high, clarity very low”
+47,1502005,“male voice dark, fullness very high, clarity low”
+48,1502010,“male voice dark, fullness very high, clarity medium”
+49,1502015,“male voice dark, fullness very high, clarity high”
+50,1502020,“male voice dark, fullness very high, clarity very high”
+51,1750000,“female voice dark, fullness very low, clarity very low”
+52,1750005,“female voice dark, fullness very low, clarity low”
+53,1750010,“female voice dark, fullness very low, clarity medium”
+54,1750015,“female voice dark, fullness very low, clarity high”
+55,1750020,“female voice dark, fullness very low, clarity very high”
+56,1750500,“female voice dark, fullness low, clarity very low”
+57,1750505,“female voice dark, fullness low, clarity low”
+58,1750510,“female voice dark, fullness low, clarity medium”
+59,1750515,“female voice dark, fullness low, clarity high”
+60,1750520,“female voice dark, fullness low, clarity very high”
+61,1751000,“female voice dark, fullness medium, clarity very low”
+62,1751005,“female voice dark, fullness medium, clarity low”
+63,1751010,“female voice dark, fullness medium, clarity medium”
+64,1751015,“female voice dark, fullness medium, clarity high”
+65,1751020,“female voice dark, fullness medium, clarity very high”
+66,1751500,“female voice dark, fullness high, clarity very low”
+67,1751505,“female voice dark, fullness high, clarity low”
+68,1751510,“female voice dark, fullness high, clarity medium”
+69,1751515,“female voice dark, fullness high, clarity high”
+70,1751520,“female voice dark, fullness high, clarity very high”
+71,1752000,“female voice dark, fullness very high, clarity very low”
+72,1752005,“female voice dark, fullness very high, clarity low”
+73,1752010,“female voice dark, fullness very high, clarity medium”
+74,1752015,“female voice dark, fullness very high, clarity high”
+75,1752020,“female voice dark, fullness very high, clarity very high”
+76,2000000,“female voice bright, fullness very low, clarity very low”
+77,2000005,“female voice bright, fullness very low, clarity low”
+78,2000010,“female voice bright, fullness very low, clarity medium”
+79,2000015,“female voice bright, fullness very low, clarity high”
+80,2000020,“female voice bright, fullness very low, clarity very high”
+81,2000500,“female voice bright, fullness low, clarity very low”
+82,2000505,“female voice bright, fullness low, clarity low”
+83,2000510,“female voice bright, fullness low, clarity medium”
+84,2000515,“female voice bright, fullness low, clarity high”
+85,2000520,“female voice bright, fullness low, clarity very high”
+86,2001000,“female voice bright, fullness medium, clarity very low”
+87,2001005,“female voice bright, fullness medium, clarity low”
+88,2001010,“female voice bright, fullness medium, clarity medium”
+89,2001015,“female voice bright, fullness medium, clarity high”
+90,2001020,“female voice bright, fullness medium, clarity very high”
+91,2001500,“female voice bright, fullness high, clarity very low”
+92,2001505,“female voice bright, fullness high, clarity low”
+93,2001510,“female voice bright, fullness high, clarity medium”
+94,2001515,“female voice bright, fullness high, clarity high”
+95,2001520,“female voice bright, fullness high, clarity very high”
+96,2002000,“female voice bright, fullness very high, clarity very low”
+97,2002005,“female voice bright, fullness very high, clarity low”
+98,2002010,“female voice bright, fullness very high, clarity medium”
+99,2002015,“female voice bright, fullness very high, clarity high”
+100,2002020,“female voice bright, fullness very high, clarity very high”
+101,2250000,“female voice very bright, fullness very low, clarity very low”
+102,2250005,“female voice very bright, fullness very low, clarity low”
+103,2250010,“female voice very bright, fullness very low, clarity medium”
+104,2250015,“female voice very bright, fullness very low, clarity high”
+105,2250020,“female voice very bright, fullness very low, clarity very high”
+106,2250500,“female voice very bright, fullness low, clarity very low”
+107,2250505,“female voice very bright, fullness low, clarity low”
+108,2250510,“female voice very bright, fullness low, clarity medium”
+109,2250515,“female voice very bright, fullness low, clarity high”
+110,2250520,“female voice very bright, fullness low, clarity very high”
+111,2251000,“female voice very bright, fullness medium, clarity very low”
+112,2251005,“female voice very bright, fullness medium, clarity low”
+113,2251010,“female voice very bright, fullness medium, clarity medium”
+114,2251015,“female voice very bright, fullness medium, clarity high”
+115,2251020,“female voice very bright, fullness medium, clarity very high”
+116,2251500,“female voice very bright, fullness high, clarity very low”
+117,2251505,“female voice very bright, fullness high, clarity low”
+118,2251510,“female voice very bright, fullness high, clarity medium”
+119,2251515,“female voice very bright, fullness high, clarity high”
+120,2251520,“female voice very bright, fullness high, clarity very high”
+121,2252000,“female voice very bright, fullness very high, clarity very low”
+122,2252005,“female voice very bright, fullness very high, clarity low”
+123,2252010,“female voice very bright, fullness very high, clarity medium”
+124,2252015,“female voice very bright, fullness very high, clarity high”
+125,2252020,“female voice very bright, fullness very high, clarity very high”
